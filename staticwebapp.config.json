@@ -2,7 +2,7 @@
     "routes": [
       {
         "route": "/*",
-        "serve": "/dist/client/assets/entries/entry-client-routing.*",
+        "serve": "/dist/server/entries/pages_index_index-page.mjs",
         "statusCode": 200
       }
     ]
