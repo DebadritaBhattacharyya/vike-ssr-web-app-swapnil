@@ -2,7 +2,7 @@
     "routes": [
       {
         "route": "/*",
-        "serve": "/dist/client/assets/entries/entry-client-routing.eb1f1a7c.js",
+        "serve": "/dist/client/assets/entries/entry-client-routing.*",
         "statusCode": 200
       }
     ]
